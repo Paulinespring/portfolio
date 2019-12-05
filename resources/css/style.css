@@ -212,6 +212,14 @@ header {
 
 }
 
+.famille-details i {
+    display: block;
+    font-size: 34px;
+    margin: 0 auto;
+    color: #336f89;
+    transition: all 1s;∑
+}
+
 .famille-details img {
     display: block;
     margin: 0 auto;
