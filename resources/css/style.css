@@ -187,7 +187,6 @@ header {
 
 .produits-icon {
     font-size: 34px;
-    margin: 0 auto;
     color: #336f89;
     transition: all 1s;∑
 }
@@ -213,8 +212,8 @@ header {
 }
 
 .famille-details i {
+    display: inline-block;
     font-size: 34px;
-    vertical-align: middle;
     color: #336f89;
     transition: all 1s;∑
 }
