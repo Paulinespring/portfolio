@@ -215,7 +215,7 @@ header {
 .famille-details i {
     display: block;
     font-size: 34px;
-    margin: 0 auto;
+    vertical-align: middle;
     color: #336f89;
     transition: all 1s;∑
 }
