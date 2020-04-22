@@ -122,7 +122,7 @@ header {
     background-image:linear-gradient(   rgba(13, 35, 83, 1),
                                         rgba(239, 209, 228, 0.2)
                                     ),
-                                    url(../images/mer-min.gif);
+                                    url(../images/mer-min1.gif);
     height: 100vh;
     background-position: center;
     background-size: cover;
@@ -296,7 +296,7 @@ header {
 .profil {
     background-image: linear-gradient(    rgba(13, 35, 83, 1),
                                         rgba(239, 209, 228, 0.2)
-                                    ), url(../images/wave.jpg);
+                                    ), url(../images/wave-min.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
