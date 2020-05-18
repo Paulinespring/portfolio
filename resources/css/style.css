@@ -145,9 +145,10 @@ header {
     font-weight: 900;
 }
 
+
 .home-title p {
     color: #fff;
-    font-size: 120%;
+    font-size: 180%;
 }
 
 .logo-img {
@@ -255,7 +256,6 @@ header {
 
 .services-btn-ghost {
     margin-top: 40px;
-    margin: auto;
     border: 1px solid #fff;
     color: #fff;
     display: block;
