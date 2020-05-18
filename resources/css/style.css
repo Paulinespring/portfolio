@@ -84,6 +84,7 @@ h2:after {
 h3 {
     font-size: 150%;
     margin-bottom: 20px;
+    text-align:inherit;
 }
 
 h4 {
@@ -217,6 +218,9 @@ header {
     transition: all 1s;∑
 }
 
+.introduction-title h3{
+    text-align: center;
+}
 
 
 /* SERVICES
@@ -251,6 +255,7 @@ header {
 
 .services-btn-ghost {
     margin-top: 40px;
+    margin: auto;
     border: 1px solid #fff;
     color: #fff;
     display: block;
