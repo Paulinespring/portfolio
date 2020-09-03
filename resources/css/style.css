@@ -129,10 +129,6 @@ header {
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    -moz-background-size: 100% 100%;     /* Gecko 1.9.2 (Firefox 3.6) */
-    -o-background-size: 100% 100%;        /* Opera 9.5 */
-    -webkit-background-size: 100% 100%;   /* Safari 3.0 */
-    background-size: 100% 100%;   
     
 }
 
