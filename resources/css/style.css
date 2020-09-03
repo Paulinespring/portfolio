@@ -62,7 +62,7 @@ h1, h2, h3, h4{
 h1 {
     color: #eee;
     font-size: 80px;
-    margin-top: 200px;
+    margin-top: 180px;
 }
 
 h2 {
@@ -126,7 +126,7 @@ header {
     background-image: url(../images/rolling-wave.jpg);
     height: 100vh;
     background-position: center;
-    background-size: cover;
+    background-size: 100%;
     background-attachment: fixed;
     
 }
