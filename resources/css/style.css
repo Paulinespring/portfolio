@@ -77,7 +77,7 @@ h2:after {
     display: block;
     height: 2px;
     background-color:pink;
-    width: 100px;
+    width: 50px;
     content: " ";
     margin: 0 auto;
     margin-top: 10px;
@@ -319,7 +319,7 @@ header {
     background-image: linear-gradient(    rgba(13, 35, 83, 1),
                                         rgba(239, 209, 228, 0.2)
                                     ), url(../images/beach.jpg);
-    background-size: cover;
+    background-size: 100%;
     background-attachment: fixed;
 }
 
