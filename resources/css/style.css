@@ -60,7 +60,9 @@ h1, h2, h3, h4{
 
 
 h1 {
-    color: #eee
+    color: #eee;
+    font-size: 80px;
+    margin-top: 200px;
 }
 
 h2 {
@@ -121,10 +123,7 @@ section {
 /* HEADER
 ========================================= */
 header {
-    background-image:linear-gradient(   rgba(13, 35, 83, 1),
-                                        rgba(239, 209, 228, 0.2)
-                                    ),
-                                    url(../images/beach.jpg);
+    background-image: url(../images/rolling-wave.jpg);
     height: 100vh;
     background-position: center;
     background-size: cover;
@@ -208,13 +207,10 @@ header {
 }
 
 .introduction-img {
+    margin-top: 100px;
+    margin-left: 100px;
     max-width: 65%;
     height: auto;
-    -webkit-transition: all 0.2s;
-    -moz-transition: all 0.2s;
-    -ms-transition: all 0.2s;
-    -o-transition: all 0.2s;
-     transition: all 0.2s;
 }
 
 
@@ -322,7 +318,7 @@ header {
 .profil {
     background-image: linear-gradient(    rgba(13, 35, 83, 1),
                                         rgba(239, 209, 228, 0.2)
-                                    ), url(../images/wave.jpg);
+                                    ), url(../images/beach.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
@@ -372,6 +368,20 @@ cite img {
 /* CONTACT
 =========================================== */
 
+.contact h3 {
+    margin-top: 50px;
+}
+
+h3:after {
+    display: block;
+    height: 2px;
+    background-color:white;
+    width: 50px;
+    content: " ";
+    margin-right: auto;
+    margin-top: 10px;
+
+}    
 .contact {
 background: linear-gradient(90deg, rgba(41,88,134,1) 0%, rgba(251,176,176,1) 100%);
 }
