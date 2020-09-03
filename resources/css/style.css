@@ -123,9 +123,9 @@ section {
 /* HEADER
 ========================================= */
 header {
-    background-image: url(../images/rolling-wave.jpg);
+    background : url(../images/rolling-wave.jpg);
     height: 100vh;
-    background-position: fixed;
+    background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
