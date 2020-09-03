@@ -125,9 +125,11 @@ section {
 header {
     background-image: url(../images/rolling-wave.jpg);
     height: 100vh;
-    background-position: center;
+    background-position: fixed;
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
+    
 
 
 }
