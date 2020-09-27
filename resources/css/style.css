@@ -321,7 +321,7 @@ header {
 .profil {
     background-image: linear-gradient(    rgba(13, 35, 83, 1),
                                         rgba(239, 209, 228, 0.2)
-                                    ), url(../images/beach.jpg);
+                                    ), url("../images/beach.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
