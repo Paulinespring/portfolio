@@ -449,3 +449,25 @@ footer {
 .copyright a {
     color:black;
 }
+
+/* MENTIONS LÉGALES
+=========================================== */
+
+.mentions h3 {
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+
+.mentions-header {
+    background-image: url(../images/rolling-wave.jpg);
+    height: 80vh;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.mentions h1 {
+    color: #eee;
+    font-size: 80px;
+    margin-top: 50px;
+}
