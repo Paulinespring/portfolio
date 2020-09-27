@@ -123,7 +123,7 @@ section {
 /* HEADER
 ========================================= */
 header {
-    background-image: url(../images/rolling-wave.jpg);
+    background-image: url("../images/rolling-wave.jpg");
     height: 100vh;
     background-position: center;
     background-size: cover;
@@ -459,7 +459,7 @@ footer {
 }
 
 .mentions-header {
-    background-image: url(../images/rolling-wave.jpg);
+    background-image: url("../images/rolling-wave.jpg");
     height: 80vh;
     background-position: center;
     background-size: cover;
