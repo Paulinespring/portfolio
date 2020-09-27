@@ -129,8 +129,8 @@ header {
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    
-
+    transform: translateZ(0);
+    display: block;
 
 }
 
