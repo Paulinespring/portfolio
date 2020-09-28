@@ -327,6 +327,7 @@ header {
     background-size: cover;
     background-attachment: scroll;
     background-repeat: no-repeat;
+    background-position: bottom;
 }
 
 .profil h2 {
