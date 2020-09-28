@@ -128,7 +128,7 @@ header {
     background-position: fixed;
     background-size: cover;
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment: scroll;
     transform: translateZ(0);
     display: block;
 
