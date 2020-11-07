@@ -206,7 +206,7 @@ header {
 }
 
 
-/* INTRODCUTION 
+/* INTRODUCTION 
 ========================================= */
 
 .introduction-plus {
@@ -236,7 +236,6 @@ header {
     text-align: left;
     color: #575757;
 }
-
 
 .introduction-plus:hover .introduction-icon {
     color: #575757;
@@ -348,12 +347,8 @@ header {
 }
 
 
-/* ACTUALITÉS
+/* ARTICLE BLOG
 =========================================== */
-
-.actualites {
-   
-}
 
 
 /* À PROPOS
@@ -473,7 +468,13 @@ color: white;
 
 /* ACTUALITÉS
 =========================================== */
+.blog{
+    background-color: #fff;
+    padding: 30px 30px;
+    margin-bottom: 20px;
+    height: 280px;
 
+}
 /* FOOTER
 =========================================== */
 
