@@ -161,7 +161,7 @@ header {
     color: #fff;
     font-size: 300%;
     margin-top: 150px;
-    line-height: normal;
+    line-height: 20px;
 }
 
 .logo-img {
@@ -263,11 +263,12 @@ header {
     text-align: left;
     font-size: 34px;
     color: #e9b2b2;
-    margin-bottom: ;
+    margin-top: 20px;
 }
 
 .introduction-plus h3{
-    text-align: center; 
+    text-align: center;
+    margin-top: 30px;
 }
 
 
@@ -326,6 +327,7 @@ header {
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0,0,0,0.3);
     margin-bottom: 30px;
+    margin-top: 30px;
     transform: 
 }
 
@@ -528,7 +530,7 @@ footer {
 .action h3 {
     color: #fff;
     text-align: center;
-    margin-top: 20px;
+    margin-top: 30px;
 }
 
 
