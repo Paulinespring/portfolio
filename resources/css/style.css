@@ -150,6 +150,7 @@ header {
 .home-title h1 {
     font-size: 280%;
     color: #fff;
+    text-align: left;
 }
 
 .home-title h1 span {
@@ -161,6 +162,7 @@ header {
     color: #fff;
     font-size: 250%;
     margin-top: 50px;
+    text-align: left;
 }
 
 .logo-img {
