@@ -286,7 +286,7 @@ header {
     padding: 30px 30px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0,0,0,0.3);
-    margin-bottom: 20px;
+    margin-top: 30px;
     height: 280px;
 
 }
@@ -308,7 +308,7 @@ header {
 
 
 .services-btn-ghost {
-    margin-top: 40px;
+    margin-top: 30px;
     border: 1px solid #fff;
     color: #fff;
     display: block;
