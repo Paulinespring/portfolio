@@ -61,7 +61,6 @@ h1, h2, h3, h4{
 
 
 h1 {
-    font-family: 'Lato', sans-serif;
     font-weight: 300;
     color: #eee;
     font-size: 70px;
@@ -162,7 +161,7 @@ header {
     font-size: 50px;
     margin-top: 50px;
     text-align: left;
-    line-height: 30px;
+    line-height: 40px;
 }
 
 .logo-img {
