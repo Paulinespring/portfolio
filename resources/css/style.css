@@ -130,7 +130,7 @@ section {
 ========================================= */
 header {
     background-image: url("../images/rolling-wave.jpg");
-    height: 100vh;
+    height: 80vh;
     background-position: fixed;
     background-size: cover;
     background-repeat: no-repeat;
